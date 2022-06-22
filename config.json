@@ -1,6 +1,6 @@
 {
     "env": {
-        "TOKEN": "OTg4MTQ2Mzg5NjY0MDE0NDE2.GPcMQX.icG1UQAQj3Y8uNMmUizoRR7HQDPgCaJva1wr_U",
+        "TOKEN": "OTg4MTQ2Mzg5NjY0MDE0NDE2.G5F6gJ.QhGCJGf_sEe6EKKfdetTWMiKgUfPl_cyTs7TH4",
         "PREFIX": ",",
         "MongoDB_TOKEN": "mongodb+srv://onekiss:onekiss123@cluster0.lnzzgbm.mongodb.net/?retryWrites=true&w=majority",
         "INVITE": "https://discord.com/api/oauth2/authorize?client_id=988146389664014416&permissions=8&scope=bot",
